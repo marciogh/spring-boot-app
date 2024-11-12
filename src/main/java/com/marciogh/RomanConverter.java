@@ -1,4 +1,4 @@
-package com.marciogh.app;
+package com.marciogh;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

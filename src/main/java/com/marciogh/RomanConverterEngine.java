@@ -1,4 +1,4 @@
-package com.marciogh.app;
+package com.marciogh;
 
 import org.springframework.stereotype.Component;
 
